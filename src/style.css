@@ -1,0 +1,107 @@
+@import "tailwindcss/base";
+@import "tailwindcss/components";
+@import "tailwindcss/utilities";
+@import "@fortawesome/fontawesome-free/css/all.css";
+
+:root {
+  font-family: Inter, system-ui, Avenir, Helvetica, Arial, sans-serif;
+  line-height: 1.5;
+  font-weight: 400;
+
+  background-color: white;
+
+  font-synthesis: none;
+  text-rendering: optimizeLegibility;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+  -webkit-text-size-adjust: 100%;
+
+  --primary-color: #00B2FF;
+  --color-light-gray: #f4f3f3;
+  --color-medium-light-gray: #9e9e9e;
+  --secondary-color: #BF282F;
+  --color-dark-gray: #0089c4;
+  --color-dark-blue: #00A5EC;
+  --color-medium-gray: #5C5C5C;
+  --color-green: #00C714;
+}
+
+.mobile-menu-item {
+  @apply block hover:bg-lightGray transition duration-300 rounded-md
+}
+
+.input {
+  @apply p-2 rounded-xl bg-[#f1f1f1] border border-gray-200 border-2 resize-none
+}
+
+.form-label {
+  @apply text-left mb-2
+}
+
+.form-group {
+  @apply flex flex-col font-noyhgeometric-medium text-darkGray
+}
+
+.interview-call-button {
+  @apply rounded-full border border-2 transition duration-300 hover:scale-105
+}
+
+.caller-box {
+  @apply rounded-xl justify-center mb-10 flex items-center bg-mediumLightGray
+}
+
+.account-card-button {
+  @apply w-72 p-2 text-white font-noyhgeometric-medium text-lg rounded-md transition duration-300 hover:scale-105
+}
+
+.nav-button {
+  @apply font-noyhgeometric-medium text-darkGray text-xl ml-5 py-2 px-2 rounded-lg transition duration-300 ease-in-out hover:bg-[#f2f3f5]
+}
+
+.dropdown-container {
+  @apply flex flex-col mb-4 font-noyhgeometric-medium text-darkGray text-left mx-auto w-5/6 mx-auto
+}
+
+.dropdown {
+  @apply border-2 border-solid border-gray-200 rounded-lg bg-[#f1f1f1] font-inter text-mediumGray box-border resize-none overflow-y-auto
+}
+
+@font-face {
+  font-family: 'inter';
+  src: url('./assets/fonts/Inter-SemiBold.ttf') format('truetype');
+}
+
+@font-face {
+  font-family: 'koulen';
+  src: url('./assets/fonts/Koulen-Regular.ttf') format('truetype');
+}
+
+@font-face {
+  font-family: 'noyhgeometric';
+  src: url('./assets/fonts/Fontspring-DEMO-noyhgeometric-bold.otf') format('opentype');
+}
+
+@font-face {
+  font-family: 'noyhgeometric-medium';
+  src: url('./assets/fonts/Fontspring-DEMO-noyhgeometric-medium.otf') format('opentype');
+}
+
+@font-face {
+  font-family: 'kenyan';
+  src: url('./assets/fonts/kenyan coffee rg.otf') format('opentype');
+}
+
+@font-face {
+  font-family: 'newsreader';
+  src: url('./assets/fonts/NewsreaderCaption-Regular.ttf') format('truetype');
+}
+
+body {
+  margin: 0;
+}
+
+#app {
+  max-width: 100%;
+  margin: 0 auto;
+  text-align: center;
+}

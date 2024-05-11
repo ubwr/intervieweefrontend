@@ -1,0 +1,814 @@
+{
+    "sectors": [
+      {
+        "sector": "Technology",
+        "link": "/interviews/Technology",
+        "img": "dist/assets/imgs/Technology.jpg",
+        "icon": "fa-solid fa-microchip icons",
+        "industry": {
+          "Software Development": [
+            "Full-stack Web Developer",
+            "Front-end Developer",
+            "Back-end Developer",
+            "DevOps Engineer",
+            "Software Engineer",
+            "UI/UX Designer",
+            "Quality Assurance (QA) Engineer",
+            "Software Tester",
+            "Software Architect",
+            "Embedded Systems Developer"
+          ],
+          "Systems Administration": [
+            "Network Administrator",
+            "Network Security Specialist",
+            "Systems Engineer",
+            "Network Operations Center (NOC) Technician",
+            "Network Support Specialist",
+            "IT Infrastructure Specialist",
+            "Wireless Network Engineer",
+            "Systems Analyst",
+            "Network Solutions Consultant",
+            "Cloud Network Engineer"
+          ],
+          "Cybersecurity": [
+            "Cybersecurity Analyst",
+            "Penetration Tester (Ethical Hacker)",
+            "Security Operations Center (SOC) Analyst",
+            "Incident Response Specialist",
+            "Security Consultant",
+            "Threat Intelligence Analyst",
+            "Information Security Manager",
+            "Security Architect",
+            "Cybersecurity Auditor",
+            "Malware Analyst/Reverse Engineer"
+          ],
+          "Data Science and Analytics": [
+            "Data Scientist",
+            "Machine Learning Engineer",
+            "Data Engineer",
+            "Business Analyst",
+            "Data Visualization Specialist",
+            "Predictive Analyst",
+            "Quantitative Analyst",
+            "Database Administrator",
+            "Data Mining Specialist",
+            "Statistician"
+          ],
+          "Cloud Computing": [
+            "Cloud Solutions Architect",
+            "Cloud DevOps Engineer",
+            "Cloud Security Specialist",
+            "Cloud Infrastructure Engineer",
+            "Cloud Operations Manager",
+            "Cloud Migration Specialist",
+            "Cloud Automation Engineer",
+            "Cloud Data Engineer",
+            "Cloud Application Developer",
+            "Cloud Integration Specialist"
+          ]
+        }
+      },
+      {
+        "sector": "Healthcare",
+        "link": "/interviews/Healthcare",
+        "img": "dist/assets/imgs/Healthcare.jpg",
+        "icon": "fa-solid fa-heart-pulse icons",
+        "industry": {
+          "Hospitals and Clinics": [
+            "Surgeon",
+            "Pediatrician",
+            "Emergency Medicine Physician",
+            "Anesthesiologist",
+            "Radiologist",
+            "Oncologist",
+            "Obstetrician/Gynecologist",
+            "Cardiologist",
+            "Neurologist",
+            "Psychiatrist"
+          ],
+          "Pharmaceuticals": [
+            "Clinical Research Associate (CRA)",
+            "Regulatory Affairs Specialist",
+            "Pharmacologist",
+            "Outreach Coordinator",
+            "Pharmaceutical Manufacturing Technician",
+            "Formulation Scientist",
+            "Medical Science Liaison (MSL)",
+            "Clinical Data Manager",
+            "Patient Navigator",
+            "Quality Control Analyst"
+          ],
+          "Biotechnology": [
+            "Geneticist",
+            "Biochemist",
+            "Bioprocess Engineer",
+            "Bioinformatics Specialist",
+            "Biomanufacturing Technician",
+            "Biomedical Scientist",
+            "Immunologist",
+            "Biomedical Research Associate",
+            "Cell Culture Specialist",
+            "Genetic Engineer"
+          ],
+          "Healthcare IT": [
+            "Health IT Project Manager",
+            "Health Information Manager",
+            "Clinical Informatics Specialist",
+            "Healthcare Data Analyst",
+            "Health IT Consultant",
+            "Systems Implementation Specialist",
+            "Telehealth Coordinator",
+            "Health IT Trainer",
+            "Electronic Health Record (EHR) Specialist",
+            "Healthcare Software Developer"
+          ],
+          "Medical Devices": [
+            "Biomedical Engineer",
+            "Regulatory Affairs Associate",
+            "Medical Device Designer",
+            "Quality Assurance Specialist (Medical Devices)",
+            "Product Development Engineer (Medical Devices)",
+            "Clinical Research Coordinator (Medical Devices)",
+            "Biocompatibility Testing Specialist",
+            "Manufacturing Process Engineer (Medical Devices)",
+            "Medical Device Technical Support Specialist",
+            "Medical Device Validation Engineer"
+          ]
+        }
+      },
+      {
+        "sector": "Finance",
+        "link": "/interviews/Finance",
+        "img": "dist/assets/imgs/Finance.jpg",
+        "icon": "fa-solid fa-coins icons",
+        "industry": {
+          "Banking": [
+            "Branch Manager",
+            "Relationship Manager (Personal Banking)",
+            "Credit Analyst",
+            "Operations Specialist (Banking)",
+            "Treasury Analyst",
+            "Mortgage Loan Officer",
+            "Customer Service Representative (Banking)",
+            "Private Banking Associate",
+            "Fraud Investigator (Banking)",
+            "Investment Banking Analyst"
+          ],
+          "Investment": [
+            "Financial Analyst (Investment)",
+            "Equity Research Analyst",
+            "Hedge Fund Manager",
+            "Quantitative Analyst (Quant)",
+            "Fixed Income Analyst",
+            "Investment Operations Specialist",
+            "Asset Allocation Strategist",
+            "Portfolio Risk Manager",
+            "Financial Planner (Wealth Management)",
+            "Real Estate Investment Analyst"
+          ],
+          "Accounting": [
+            "Certified Public Accountant (CPA)",
+            "Forensic Accountant",
+            "Management Accountant",
+            "Tax Accountant",
+            "Internal Auditor",
+            "Cost Accountant",
+            "Financial Controller",
+            "Governmental Accountant",
+            "Non-profit Accountant",
+            "International Tax Consultant"
+          ],
+          "Insurance": [
+            "Claims Adjuster",
+            "Insurance Sales Agent",
+            "Risk Analyst (Insurance)",
+            "Underwriting Assistant",
+            "Loss Control Specialist (Insurance)",
+            "Actuarial Analyst",
+            "Insurance Claims Examiner",
+            "Insurance Product Manager",
+            "Reinsurance Analyst",
+            "Health Insurance Specialist"
+          ],
+          "Financial Technology": [
+            "Fintech Product Manager",
+            "Payment Solutions Architect",
+            "Cryptocurrency Analyst",
+            "Regulatory Compliance Specialist (Fintech)",
+            "Fintech UX/UI Designer",
+            "Digital Banking Specialist",
+            "Financial Software Engineer",
+            "Blockchain Solutions Consultant",
+            "Cybersecurity Analyst (Fintech)",
+            "Financial Data Scientist"
+          ]
+        }
+      },
+      {
+        "sector": "Education",
+        "link": "/interviews/Education",
+        "img": "dist/assets/imgs/Education.jpg",
+        "icon": "fa-solid fa-user-graduate icons",
+        "industry": {
+          "Primary and Secondary Education": [
+            "Elementary School Teacher",
+            "Middle School Teacher",
+            "High School Teacher",
+            "Special Education Teacher (K-12)",
+            "School Counselor",
+            "Principal (School Administrator)",
+            "Curriculum Developer (K-12)",
+            "Education Program Coordinator",
+            "School Librarian/Media Specialist",
+            "Instructional Coach (K-12)"
+          ],
+          "Higher Education": [
+            "Professor (Assistant, Associate, or Full)",
+            "Academic Advisor (Higher Education)",
+            "Admissions Officer/Admissions Counselor",
+            "Research Associate (Higher Education)",
+            "College Registrar",
+            "Student Affairs Coordinator",
+            "Dean of Students",
+            "Director of Admissions",
+            "Institutional Research Analyst",
+            "Campus Diversity Officer"
+          ],
+          "Educational Technology": [
+            "eLearning Developer/Instructional Designer",
+            "Online Course Coordinator",
+            "Learning Management System (LMS) Administrator",
+            "Educational Technology Specialist",
+            "Multimedia Content Developer",
+            "Instructional Technologist",
+            "Educational Game Designer",
+            "Virtual Reality (VR) Education Developer",
+            "Online Curriculum Developer",
+            "Educational Technology Consultant"
+          ],
+          "Special Education": [
+            "Behavior Therapist (Applied Behavior Analysis - ABA)",
+            "Special Education Teacher (Behavioral Specialist)",
+            "Inclusion Specialist (Special Education Inclusion Teacher)",
+            "Speech-Language Pathologist (SLP)",
+            "Occupational Therapist (OT) - Special Education",
+            "Physical Therapist (PT) - Special Education",
+            "Special Education Coordinator (School/District Level)",
+            "Assistive Technology Specialist (Special Education)",
+            "Behavioral Interventionist",
+            "Special Education Advocate/Parent Liaison"
+          ],
+          "Corporate Training": [
+            "Corporate Trainer (Training and Development Specialist)",
+            "Training Manager (Learning and Development Manager)",
+            "Instructional Designer (Corporate Training)",
+            "Organizational Development Consultant",
+            "Employee Onboarding Specialist",
+            "Talent Development Coordinator",
+            "Training Needs Analyst",
+            "E-Learning Specialist",
+            "Performance Consultant (Corporate Training)",
+            "Leadership Development Facilitator"
+          ]
+        }
+      },
+      {
+        "sector": "Manufacturing",
+        "link": "/interviews/Manufacturing",
+        "img": "dist/assets/imgs/Manufacturing.jpg",
+        "icon": "fa-solid fa-car icons",
+        "industry": {
+          "Automotive": [
+            "Automotive Technician",
+            "Automotive Sales Representative",
+            "Automotive Service Advisor",
+            "Automotive Design Engineer",
+            "Automotive Test Engineer",
+            "Automotive Manufacturing Engineer",
+            "Automotive Quality Engineer",
+            "Automotive Research and Development (R&D) Engineer",
+            "Automotive Parts Specialist",
+            "Automotive Electrician"
+          ],
+          "Aerospace and Defense": [
+            "Aerospace Systems Engineer",
+            "Aerospace Design Engineer",
+            "Aircraft Maintenance Technician",
+            "Avionics Technician",
+            "Aerospace Materials Engineer",
+            "Defense Systems Analyst",
+            "Aerospace Manufacturing Technician",
+            "Aerospace Test Engineer",
+            "Aerospace Project Manager",
+            "Aerospace Research Scientist"
+          ],
+          "Electronics": [
+            "Electronics Technician",
+            "Electronics Design Engineer",
+            "Electronics Test Engineer",
+            "Printed Circuit Board (PCB) Designer",
+            "Electronics Manufacturing Engineer",
+            "Electronics Repair Technician",
+            "Semiconductor Process Engineer",
+            "Electronics Quality Control Inspector",
+            "Electronics Sales Representative",
+            "Electronics Packaging Engineer"
+          ],
+          "Food and Beverage": [
+            "Food Production Operator",
+            "Food Quality Control Technician",
+            "Food Scientist/Food Technologist",
+            "Food Safety Specialist",
+            "Food Packaging Engineer",
+            "Beverage Production Technician",
+            "Food Process Engineer",
+            "Food Microbiologist",
+            "Food Regulatory Affairs Specialist"
+          ],
+          "Textile and Apparel": [
+            "Textile Designer",
+            "Apparel Pattern Maker",
+            "Textile Engineer",
+            "Apparel Product Developer",
+            "Textile Chemist",
+            "Garment Quality Control Inspector",
+            "Fashion Illustrator",
+            "Textile Materials Researcher",
+            "Technical Designer (Apparel)",
+            "Textile Production Manager"
+          ]
+        }
+      },
+      {
+        "sector": "Retail",
+        "link": "/interviews/Retail",
+        "img": "dist/assets/imgs/Retail.jpg",
+        "icon": "fa-solid fa-cash-register icons",
+        "industry": {
+          "Fashion Retail": [
+            "Fashion Buyer",
+            "Fashion Stylist",
+            "Fashion Visual Merchandiser",
+            "Fashion Store Manager",
+            "Fashion Retail Sales Associate",
+            "Fashion Showroom Assistant",
+            "Fashion Marketing Coordinator",
+            "Fashion Customer Service Representative",
+            "Fashion E-commerce Specialist",
+            "Fashion Retail Loss Prevention Specialist"
+          ],
+          "Electronics Retail": [
+            "Electronics Sales Associate",
+            "Electronics Store Manager",
+            "Electronics Customer Service Representative",
+            "Electronics Product Demonstrator",
+            "Electronics Repair Technician",
+            "Electronics Sales Specialist",
+            "Electronics Inventory Specialist",
+            "Electronics Technical Support Representative",
+            "Electronics Online Sales Associate",
+            "Electronics Retail Trainer"
+          ],
+          "Grocery Retail": [
+            "Grocery Store Cashier",
+            "Grocery Store Stock Clerk",
+            "Grocery Department Manager",
+            "Grocery Store Assistant Manager",
+            "Grocery Store Manager",
+            "Grocery Replenishment Specialist",
+            "Grocery Store Customer Service Representative",
+            "Grocery Store Bakery/Deli Clerk",
+            "Grocery Store Produce Clerk",
+            "Grocery Store Butcher/Meat Cutter"
+          ],
+          "Food Service": [
+            "Fast Food Cashier",
+            "Fast Food Cook",
+            "Fast Food Shift Supervisor",
+            "Fast Food Restaurant Manager",
+            "Drive-Thru Attendant",
+            "Food Prep Worker (Fast Food)",
+            "Fast Food Team Member",
+            "Fast Food Delivery Driver",
+            "Fast Food Order Taker",
+            "Fast Food Crew Leader"
+          ],
+          "Home Improvement": [
+            "Home Improvement Sales Associate",
+            "Home Improvement Store Manager",
+            "Home Improvement Customer Service Representative",
+            "Home Improvement Specialist",
+            "Home Improvement Project Coordinator",
+            "Home Improvement Design Consultant",
+            "Home Improvement Inventory Control Specialist",
+            "Home Improvement Department Supervisor",
+            "Home Improvement Tool Rental Associate",
+            "Home Improvement Online Sales Representative"
+          ]
+        }
+      },
+      {
+        "sector": "Hospitality and Tourism",
+        "link": "/interviews/Hospitality%20and%20Tourism",
+        "img": "dist/assets/imgs/Tourism.jpg",
+        "icon": "fa-solid fa-umbrella-beach icons",
+        "industry": {
+          "Hotels and Resorts": [
+            "Hotel Manager",
+            "Front Desk Agent/Hotel Receptionist",
+            "Concierge",
+            "Guest Relations Manager",
+            "Hotel Sales Manager",
+            "Housekeeping Supervisor",
+            "Food and Beverage Manager",
+            "Event Coordinator (Hotel)",
+            "Revenue Manager (Hotel)",
+            "Spa Manager"
+          ],
+          "Restaurants": [
+            "Chef/Cook",
+            "Restaurant Server",
+            "Restaurant Manager",
+            "Bartender",
+            "Pastry Chef/Baker",
+            "Restaurant Host/Hostess",
+            "Food Expeditor",
+            "Restaurant Line Cook",
+            "Restaurant General Manager"
+          ],
+          "Travel Agencies": [
+            "Travel Agent",
+            "Travel Consultant",
+            "Tour Coordinator",
+            "Travel Sales Specialist",
+            "Travel Agency Manager",
+            "Group Travel Specialist",
+            "Travel Reservation Agent",
+            "Cruise Consultant",
+            "Adventure Travel Planner",
+            "Travel Customer Service Representative"
+          ],
+          "Event Planning": [
+            "Event Planner",
+            "Wedding Coordinator",
+            "Conference Organizer",
+            "Corporate Event Planner",
+            "Meeting Planner",
+            "Trade Show Coordinator",
+            "Event Production Manager",
+            "Event Marketing Specialist",
+            "Social Event Coordinator",
+            "Event Logistics Coordinator"
+          ],
+          "Tourism Promotion": [
+            "Destination Marketing Manager",
+            "Tourism Consultant",
+            "Tour Guide",
+            "Tourism Development Specialist",
+            "Marketing Coordinator (Tourism)",
+            "Travel Writer",
+            "Destination Wedding Planner",
+            "Tourism Research Analyst",
+            "Cultural Heritage Interpreter"
+          ]
+        }
+      },
+      {
+        "sector": "Media and Entertainment",
+        "link": "/interviews/Media%20and%20Entertainment",
+        "img": "dist/assets/imgs/Entertainment.jpg",
+        "icon": "fa-solid fa-video icons",
+        "industry": {
+          "Film and Television": [
+            "Film Producer",
+            "Screenwriter",
+            "Cinematographer",
+            "Film Editor",
+            "Production Designer (Film and TV)",
+            "Costume Designer",
+            "Special Effects (VFX) Artist",
+            "Film Grip/Gaffer",
+            "Film Sound Designer",
+            "Casting Director (Film and TV)"
+          ],
+          "Music": [
+            "Music Composer",
+            "Music Producer",
+            "Session Musician",
+            "Music Teacher/Instructor",
+            "Sound Engineer (Music)",
+            "Music Arranger",
+            "Music Publisher",
+            "Music Director/Conductor",
+            "Music Therapist",
+            "Music Marketing Specialist"
+          ],
+          "Publishing": [
+            "Acquisitions Editor",
+            "Manuscript Editor",
+            "Copy Editor",
+            "Editorial Assistant",
+            "Literary Publicist",
+            "Publishing Sales Representative",
+            "Production Editor (Publishing)",
+            "Rights and Permissions Coordinator",
+            "Publishing Project Manager"
+          ],
+          "Gaming": [
+            "Game Developer (Game Programmer)",
+            "Game Artist",
+            "Game Animator",
+            "Level Designer",
+            "Game Writer (Narrative Designer)",
+            "Game Sound Designer",
+            "Game Producer",
+            "Game Quality Assurance (QA) Tester",
+            "Game Monetization Specialist",
+            "Game UX/UI Designer"
+          ],
+          "Broadcasting": [
+            "News Anchor (Broadcast Journalist)",
+            "Video Journalist",
+            "News Producer",
+            "Broadcast Engineer",
+            "Master Control Operator",
+            "Broadcast Graphics Designer",
+            "Radio Show Host",
+            "Podcast Producer",
+            "Outside Broadcast Technician",
+            "Broadcast Sales Executive"
+          ]
+        }
+      },
+      {
+        "sector": "Energy and Utilities",
+        "link": "/interviews/Energy%20and%20Utilities",
+        "img": "dist/assets/imgs/Energy.jpg",
+        "icon": "fa-solid fa-charging-station icons",
+        "industry": {
+          "Renewable Energy": [
+            "Wind Turbine Technician",
+            "Renewable Energy Engineer",
+            "Energy Analyst (Renewable Energy)",
+            "Biomass Power Plant Operator",
+            "Geothermal Energy Technician",
+            "Hydroelectric Power Plant Operator",
+            "Renewable Energy Project Manager",
+            "Energy Storage Specialist",
+            "Sustainable Energy Policy Analyst"
+          ],
+          "Oil and Gas": [
+            "Petroleum Engineer",
+            "Oil Rig Worker (Roustabout)",
+            "Petrochemical Plant Operator",
+            "Drilling Engineer (Oil and Gas)",
+            "Oilfield Service Technician",
+            "Oil and Gas Production Operator",
+            "Reservoir Engineer",
+            "Well Log Analyst (Oil and Gas)",
+            "Health, Safety, and Environmental (HSE) Specialist (Oil and Gas)",
+            "Oil and Gas Supply Chain Analyst"
+          ],
+          "Electric Utilities": [
+            "Electrical Engineer",
+            "Power Plant Operator",
+            "Electrical Lineman (Power Lineman)",
+            "Power Systems Engineer",
+            "Substation Technician",
+            "Power Distribution Engineer",
+            "Energy Management Specialist",
+            "Power Systems Dispatcher",
+            "Transmission Planning Engineer",
+            "Renewable Energy Integration Specialist"
+          ],
+          "Water Utilities": [
+            "Water Treatment Plant Operator",
+            "Water Quality Analyst",
+            "Hydrologist",
+            "Water Resources Engineer",
+            "Wastewater Treatment Plant Operator",
+            "Environmental Compliance Specialist (Water Utilities)",
+            "Water Distribution Operator",
+            "Water Resource Planner",
+            "Water Conservation Specialist",
+            "Water Infrastructure Inspector"
+          ],
+          "Waste Management": [
+            "Waste Collection Driver (Garbage Truck Driver)",
+            "Recycling Coordinator",
+            "Waste Treatment Engineer",
+            "Environmental Health and Safety (EHS) Specialist (Waste Management)",
+            "Solid Waste Facility Manager",
+            "Landfill Gas Technician",
+            "Waste Reduction Consultant",
+            "Waste Disposal Analyst",
+            "Hazardous Waste Specialist",
+            "Waste-to-Energy Plant Operator"
+          ]
+        }
+      },
+      {
+        "sector": "Construction",
+        "link": "/interviews/Construction",
+        "img": "dist/assets/imgs/Construction.jpg",
+        "icon": "fa-solid fa-helmet-safety icons",
+        "industry": {
+          "Residential Construction": [
+            "Carpenter",
+            "Electrician",
+            "Plumber",
+            "HVAC Technician (Heating, Ventilation, and Air Conditioning)",
+            "Roofing Installer",
+            "Flooring Installer",
+            "Drywall Installer",
+            "Painting Contractor",
+            "Landscaping Specialist",
+            "Home Remodeling Contractor"
+          ],
+          "Commercial Construction": [
+            "Construction Project Manager",
+            "Site Supervisor",
+            "Construction Estimator",
+            "Safety Manager (Construction)",
+            "Construction Superintendent",
+            "Building Inspector",
+            "Construction Scheduler",
+            "MEP Coordinator (Mechanical, Electrical, Plumbing)",
+            "Construction Quality Control Manager",
+            "Construction Contracts Administrator"
+          ],
+          "Civil Engineering": [
+            "Civil Engineer",
+            "Structural Designer",
+            "Geotechnical Engineer",
+            "Transportation Engineer",
+            "Water Resources Engineer",
+            "Environmental Engineer (Civil)",
+            "Bridge Engineer",
+            "Land Development Engineer",
+            "Construction Materials Engineer",
+            "Traffic Engineer"
+          ],
+          "Architecture": [
+            "Architect",
+            "Architectural Designer",
+            "Urban Planner",
+            "Interior Designer",
+            "Landscape Architect",
+            "Building Information Modeling (BIM) Specialist",
+            "Sustainable Design Consultant",
+            "Historic Preservation Architect",
+            "Healthcare Facility Planner",
+            "Retail Space Planner"
+          ],
+          "Building Materials": [
+            "Sales Representative for Construction Materials",
+            "Construction Equipment Operator",
+            "Construction Materials Quality Control Technician",
+            "Building Materials Sales Manager",
+            "Building Materials Procurement Specialist",
+            "Construction Safety Equipment Sales Representative",
+            "Building Materials Testing Engineer",
+            "Construction Adhesives and Sealants Specialist",
+            "Building Materials Inventory Coordinator",
+            "Construction Chemicals Sales Executive"
+          ]
+        }
+      },
+      {
+        "sector": "Transportation and Logistics",
+        "link": "/interviews/Transportation%20and%20Logistics",
+        "img": "dist/assets/imgs/Transportation.jpg",
+        "icon": "fa-solid fa-truck icons",
+        "industry": {
+          "Trucking and Freight": [
+            "Truck Driver (Long-Haul or Local)",
+            "Logistics Coordinator",
+            "Freight Broker",
+            "Dispatcher (Trucking and Freight)",
+            "Freight Operations Manager",
+            "Fleet Manager (Trucking)",
+            "Freight Forwarding Specialist",
+            "Freight Auditor",
+            "Transportation Planner"
+          ],
+          "Shipping and Warehousing": [
+            "Warehouse Worker",
+            "Shipping Clerk",
+            "Inventory Manager",
+            "Warehouse Supervisor",
+            "Order Picker/Packer",
+            "Receiving Specialist",
+            "Warehouse Operations Coordinator",
+            "Shipping and Receiving Clerk",
+            "Inventory Control Specialist",
+            "Warehouse Automation Technician"
+          ],
+          "Aviation": [
+            "Pilot (Commercial or Private)",
+            "Air Traffic Controller",
+            "Aircraft Mechanic/Technician",
+            "Flight Instructor",
+            "Aviation Safety Inspector",
+            "Aircraft Dispatcher",
+            "Aviation Maintenance Manager",
+            "Airline Operations Coordinator",
+            "Airport Manager",
+            "Flight Operations Specialist"
+          ],
+          "Rail Transportation": [
+            "Train Conductor",
+            "Locomotive Engineer",
+            "Rail Traffic Coordinator",
+            "Rail Yard Operator",
+            "Railroad Signal Technician",
+            "Train Dispatcher",
+            "Rail Operations Supervisor",
+            "Railroad Track Inspector",
+            "Rail Safety Specialist",
+            "Rolling Stock Technician"
+          ],
+          "Supply Chain Management": [
+            "Supply Chain Analyst",
+            "Procurement Specialist",
+            "Logistics Manager",
+            "Demand Planner",
+            "Inventory Analyst",
+            "Supplier Relationship Manager",
+            "Operations Research Analyst (Supply Chain)",
+            "Distribution Center Manager",
+            "Supply Chain Consultant",
+            "Global Logistics Coordinator"
+          ]
+        }
+      },
+      {
+        "sector": "Public Service",
+        "link": "/interviews/Public%20Service",
+        "img": "dist/assets/imgs/Services.jpg",
+        "icon": "fa-solid fa-building-shield icons",
+        "industry": {
+          "Government Administration": [
+            "Civil Servant",
+            "Administrative Officer",
+            "Public Policy Analyst",
+            "Government Budget Analyst",
+            "Legislative Assistant",
+            "Human Resources Specialist (Government)",
+            "Government Relations Specialist",
+            "Public Information Officer",
+            "Government Program Evaluator",
+            "Policy Advisor (Government)"
+          ],
+          "Law Enforcement": [
+            "Police Officer",
+            "Detective",
+            "Criminal Investigator",
+            "Police Sergeant",
+            "K-9 Officer (Police Dog Handler)",
+            "Crime Scene Investigator",
+            "Narcotics Detective",
+            "Homicide Detective",
+            "SWAT Team Member",
+            "Forensic Science Technician"
+          ],
+          "Firefighting and Emergency Services": [
+            "Firefighter",
+            "Paramedic",
+            "Emergency Medical Technician (EMT)",
+            "Fire Captain",
+            "Fire Prevention Specialist",
+            "Hazardous Materials (HazMat) Technician",
+            "Emergency Dispatcher",
+            "Wildland Firefighter",
+            "Search and Rescue (SAR) Technician",
+            "Emergency Management Coordinator"
+          ],
+          "Social Services": [
+            "Social Worker",
+            "Counselor (Mental Health, Substance Abuse, etc.)",
+            "Case Manager (Social Services)",
+            "Child Welfare Specialist",
+            "Family Support Worker",
+            "School Social Worker",
+            "Geriatric Social Worker",
+            "Medical Social Worker",
+            "Adoption Counselor",
+            "Domestic Violence Advocate"
+          ],
+          "Nonprofit Organizations": [
+            "Program Coordinator (Non-profit)",
+            "Grant Writer",
+            "Fundraising Manager",
+            "Volunteer Coordinator",
+            "Non-profit Marketing Specialist",
+            "Community Outreach Coordinator",
+            "Event Planner (Non-profit)",
+            "Non-profit Development Officer",
+            "Non-profit Financial Analyst",
+            "Communications Manager (Non-profit)"
+          ]
+        }
+      }      
+    ]
+  }
